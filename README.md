@@ -1,8 +1,15 @@
 # fb_ui
 
 A new Flutter project.
+# output
 
-## Getting Started
+![Screenshot_20230205-131459](https://user-images.githubusercontent.com/124492274/216814883-767117e6-1755-4126-8726-958747257be9.jpg)
+
+![Screenshot_20230205-131732](https://user-images.githubusercontent.com/124492274/216814937-ef9f16d3-d1e9-4de9-a270-8b3e399bee6d.jpg)
+
+
+## Getting Started![Uploading Screenshot_20230205-131732.jpg…]()
+
 
 This project is a starting point for a Flutter application.
 
